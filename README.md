@@ -386,7 +386,11 @@ SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a
 
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/104999420/176711446-e7b3bf0f-83af-4e84-8108-908c72ace43a.png">
 
-5.	CONCLUSIONES
+5. Video
+
+https://youtu.be/SiSF0c0B5RA
+
+6.	CONCLUSIONES
 
 •	Los conceptos leídos en el capítulo 7 y 8 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular los divisores de voltajes y corrientes en un circuito en serie-paralelo aplicando la ley de Ohm y a la vez las leyes de Kirchhoff, y también a calcular la resistencia total en un circuito en serie-paralelo aplicando las características de un circuito en serie y un circuito en paralelo, por lo que concluimos que estos temas van de la mano y hay que revisar muy a fondo.
 
@@ -394,7 +398,7 @@ SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a
 
 •	 Haciendo uso de los conceptos de un circuito en serie-paralelo y aplicando los teoremas de circuito y conversiones, se fue resolviendo de manera correcta los problemas planteados en los capítulos 7 y 8 de Floyd ya que al tener un circuito serie-paralelo, la resolución de esta es más compleja e intervienen varios temas, como son las leyes de Kirchhoff, la ley de Ohm y las características de un circuito en serie y paralelo, por lo que al haber aplicado todo esto de manera correcta los ejercicios se resolvió de una manera ágil y sin mucho problema.
 
-6.	BLIBIOGRAFÍA
+7.	BLIBIOGRAFÍA
 
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
